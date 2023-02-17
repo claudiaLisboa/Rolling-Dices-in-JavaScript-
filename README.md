@@ -1,5 +1,5 @@
-🎲🎲🎲
-# `Building a Dice Game Project using HTML, CSS, and JavaScript.`
+
+# `Building a Dice Game Project using HTML, CSS, and JavaScript. 🎲🎲🎲`
 
 ### `For studying purpose` 
 
